@@ -1,4 +1,5 @@
-# Capstone 4 - 'Targeting your ad audience' by Rosania Pinto
+# Capstone 4
+# Targeting your ad audience by Rosania Pinto
 
 ## Objective 
 
@@ -29,5 +30,3 @@ Google Slides Presentation: https://docs.google.com/presentation/d/1QG0yXhVRqHos
 Kaggle dataset - https://www.kaggle.com/c/outbrain-click-prediction/overview
 
 Google Drive folder on the dataset CSV files I used - https://drive.google.com/drive/folders/1GKcpx1TROJCWU1VVD61srG0t_c9dJZC0?usp=sharing
-
-Google Slides Presentation: https://docs.google.com/presentation/d/1QG0yXhVRqHosdmzAcAEtWyGLFYD7Yb1hFje6gWtYj5I/edit?usp=sharing
