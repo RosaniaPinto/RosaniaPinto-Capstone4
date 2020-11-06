@@ -20,6 +20,10 @@ Deeper dive into audience segmentation
 
 Python (Pandas, Seaborn, Matplotlib), Excel, Tableau, Statistics
 
+## Presentation 
+
+Google Slides Presentation: https://docs.google.com/presentation/d/1QG0yXhVRqHosdmzAcAEtWyGLFYD7Yb1hFje6gWtYj5I/edit?usp=sharing
+
 ## Data Source
 
 Kaggle dataset - https://www.kaggle.com/c/outbrain-click-prediction/overview
