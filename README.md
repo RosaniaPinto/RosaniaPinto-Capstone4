@@ -9,12 +9,12 @@ Recommendations
 > Users aren't likely to click on ads however Outbrain can promote ads based on most popular days of the week, during the afternoon & evening hours, and having ads showed on desktop & mobile devices.
 
 Next Steps
-> Promoting popular ads to increase revenue
-> Using more demographics such as gender, age, etc to targeting our audience better
+Promoting popular ads to increase revenue
+Using more demographics such as gender, age, etc to targeting our audience better
 > Deeper dive into audience segmentation
 
 Technologies Used 
-> Python (Pandas, Seaborn, Matplotlib), Excel, Tableau, Statistics
+Python (Pandas, Seaborn, Matplotlib), Excel, Tableau, Statistics
 
 Data Source
 > Kaggle dataset - https://www.kaggle.com/c/outbrain-click-prediction/overview
